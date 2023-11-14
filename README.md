@@ -19,8 +19,7 @@ Homography Matrix는 한 이미지에서 다른 이미지로의 투영 변환을
 
 Homography Matrix 행렬 공식
 
-<img width="323" alt="스크린샷 2023-11-14 오후 7 20 28" src="https://github.com/jamessung644/VideotoPanorama/assets/39661528/6c9cc77a-ae2a-475b-ab91-26caf8bad93b">
-homography matrix 사진
+<img width="500" alt="스크린샷 2023-11-14 오후 7 20 28" src="https://github.com/jamessung644/VideotoPanorama/assets/39661528/6c9cc77a-ae2a-475b-ab91-26caf8bad93b">
 
 
 
